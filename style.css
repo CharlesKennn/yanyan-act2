@@ -1,5 +1,5 @@
 .navbar{
-    background-color: rgb(75, 77, 88)
+    background-color: #070f25;
 
 }
 .navbar .navlink{
@@ -32,7 +32,7 @@ div .col-lg-12{
 }
 
 #banner {
-    background: url('1asta.avif');
+    background: url('bw.webp');
     height: 100vh;
     background-size: cover;
 }
@@ -89,7 +89,7 @@ section {
 
 .card{
     border: 20px solid rgb(0, 0, 0);
-    box-shadow: 0 0 50px rgb(0, 0, 0);
+    box-shadow: 0 0 50px rgb(255, 255, 255);
     border-radius: 25px;
     margin-top: 40px;
 }
@@ -104,6 +104,9 @@ section {
     color: #000000;
 }
 
+#services {
+    background: #420b0b;
+}
 
 #about {
     background: #0A1737;
