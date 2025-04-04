@@ -1,0 +1,189 @@
+.navbar{
+    background-color: rgb(75, 77, 88)
+
+}
+.navbar .navlink{
+    color: rgb(172, 164, 209);
+}
+
+.btn {
+    padding: 20px 30px;
+    font-weight: 900;
+    font-size: 10px;
+}
+
+.btn-bembang {
+    background-color: blue;
+    border: 2px solid;
+    border-radius: 10px;
+    transition: all ease-in 0.5s;
+}
+
+.btn-bembang:hover {
+    color: antiquewhite;
+    border: 2px solid;
+}
+
+.xen{
+    width: 6%;
+}
+div .col-lg-12{
+    color: aliceblue;
+}
+
+#banner {
+    background: url('1asta.avif');
+    height: 100vh;
+    background-size: cover;
+}
+section {
+    padding: 120px 0;
+    font-style: oblique;
+}
+
+
+.banner p {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+#about h2, #about h3 {
+    color: rgb(150, 20, 20);
+}
+
+#about h3 {
+    font-size: 2.5rem;
+}
+
+#about h2 {
+    font-size: 4rem;
+    color: #000000;
+}
+
+#about img {
+    padding: 15px 15px;
+    border: 10px solid rgb(0, 0, 0);
+    box-shadow: 0 0 200px rgb(0, 0, 0) ;
+    border-radius: 25px;
+}
+
+.btn-malup {
+    color: white;
+    background-color: #4e4e4e;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    display: inline-block;
+    transition: 0.3s ease-in-out;
+}
+
+.btn-malup:hover {
+    background-color: #2980b9;
+}
+
+.card-top-top{
+    width: 30%;
+}
+
+.card{
+    border: 20px solid rgb(0, 0, 0);
+    box-shadow: 0 0 50px rgb(0, 0, 0);
+    border-radius: 25px;
+    margin-top: 40px;
+}
+
+.card:hover{
+    background-color: rgb(0, 0, 0);
+    box-shadow: 0 0 80px 0 black;
+}
+
+.card:hover .card-title,
+.card:hover .card-text {
+    color: #000000;
+}
+
+
+#about {
+    background: #0A1737;
+}
+
+#reviews {
+    background: #0A1737;
+}
+
+
+
+.testimonial {
+    border: 2px solid #ffffff;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.testimonial img {
+    width: 75px;
+    border-radius: 50px;
+    border: 2px solid #ffffff;
+}
+
+.faq-section {
+    max-width: 800px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.card-title, .card-text {
+    background-color: #ffffff;
+    border: none;
+    border-bottom: 0px solid #ffffff;
+    border-radius: 0 !important;
+    padding: 0px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+    cursor:default;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.accordion-button {
+    background-color: #ffffff;
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    border-radius: 0 !important;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #605177;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+accordion-body {
+    border-left: 3px solid #251244;
+    padding: 10px 15px;
+    margin-left: 0;
+    background-color: #0A1737;
+}
+
+.accordion-button:hover {
+    background-color: #0A1737;
+    color: #ffffff;
+}
+
+footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #0A1737 ;
+} 
+
+#footer ul.list-unstyled li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#footer ul.list-unstyled li:hover a {
+    color:  rgb(244, 149, 15) ;
+    
+}
